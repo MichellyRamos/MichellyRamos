@@ -5,15 +5,15 @@
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
-<a href="https://github.com/Matheus-Inacioal/github-readme-stats">
+<a href="https://github.com/MichellyRamos/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Matheus-Inacioal/top-langs">
+<a href="https://github.com/MichellyRamos/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&hide_progress=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Matheus-Inacioal/convoychat">
+<a href="https://github.com/MichellyRamos/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Matheus-Inacioal" />
 </a>
 
