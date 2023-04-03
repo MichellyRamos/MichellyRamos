@@ -2,7 +2,8 @@
 
 
 - 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 1/6
-- 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
+- 💡 Sou apaixonada em tecnoligia , Bugigangas eletrônicas e espero cresce muito nessa area da tecnologia.
+- 💡 sou nova na area e estou a procura de novos desafios! 
 -->
 
 <a href="https://github.com/MichellyRamos/github-readme-stats">
