@@ -1,7 +1,7 @@
 # Olá! Me chamo Michelly Ramos!! 👋
 
 
-- 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 1/8
+- 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 1/6
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
