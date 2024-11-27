@@ -1,9 +1,9 @@
 # Olá! Me chamo Michelly Ramos!! 👋
 
 
-- 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 1/6
-- 💡 Sou apaixonada em tecnoligia , Bugigangas eletrônicas e espero cresce muito nessa area da tecnologia.
-- 💡 sou nova na area e estou a procura de novos desafios! 
+- 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 4/4
+- 💡 Mente inovadora e espero cresce muito nessa area da tecnologia.
+- 💡 Nova na area e a procura de novos desafios. Acredito que o céu e limite para quem ousa creditar em seus sonhos.
 -->
 
 <a href="https://github.com/MichellyRamos/github-readme-stats">
