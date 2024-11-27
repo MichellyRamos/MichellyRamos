@@ -3,7 +3,7 @@
 
 - 📚 Cursando Analise e desenvolvimento de sistemas! - UDF 4/4
 - 💡 Mente inovadora e espero cresce muito nessa area da tecnologia.
-- 💡 Nova na area e a procura de novos desafios. Acredito que o céu é o limite para quem ousa creditar em seus sonhos.
+- 💡sempre a procura de novos desafios. Acredito que o céu é o limite para quem ousa creditar em seus sonhos.
 -->
 
 <a href="https://github.com/MichellyRamos/github-readme-stats">
