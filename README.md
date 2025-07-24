@@ -2,7 +2,7 @@
 
 
 - 📚 Analista de sistema /UDF
- Tecnica em segurança cibernética curso em andamento termino 2027./Sena 
+ Tecnica em segurança cibernética curso em andamento termino 2027./Senac 
  
 - 💡 Mente inovadora e espero cresce muito nessa area da tecnologia.
 - 💡sempre a procura de novos desafios. Acredito que o céu é o limite para quem ousa creditar em seus sonhos.
