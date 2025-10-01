@@ -2,10 +2,14 @@
 
 
 - 📚 Analista de sistema /UDF
- Tecnica em segurança cibernética curso em andamento termino 2027/Senac 
+ ##Tecnica em segurança cibernética/Senac 
  
-- 💡 Mente inovadora e espero cresce muito nessa area da tecnologia/segurança cibernetica
-- 💡sempre a procura de novos desafios. Acredito que o céu é o limite para quem ousa creditar em seus sonhos.
+
+👩‍💻 Sobre mim
+
+Olá! Eu sou Michelly Ramos, estudante de Segurança Cibernética no Senac DF.
+Sou apaixonada por tecnologia, inovação e aprendizado contínuo 🚀.
+Busco sempre aprimorar meus conhecimentos e compartilhar experiências que contribuam para um ambiente digital mais seguro e consciente 🔒.
 -->
 
 <a href="https://github.com/MichellyRamos/github-readme-stats">
