@@ -2,7 +2,8 @@
 
 
 - 📚 Analista de sistema /UDF
- ##Tecnica em segurança cibernética/Senac 
+
+- 📚 Técnica em segurança cibernética/Senac 
  
 
 👩‍💻 Sobre mim
